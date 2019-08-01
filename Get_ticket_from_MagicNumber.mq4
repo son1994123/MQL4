@@ -66,14 +66,13 @@ void OnTick()
             }
          }
       }
+      cout_Ticket++;
      for(int j=0;j<total;j++)
        {
         if(Ticket_Of_Oders[j] > 0)
           {
-           for(int e=0;e<total;e++)
-             {
-              Ticket_Of_Oders_144[e] = Ticket_Of_Oders[j];
-             }
+           Ticket_Of_Oders_144[cout_Ticket] = Ticket_Of_Oders[j];
+            cout_Ticket++;
           }
        }
       //
