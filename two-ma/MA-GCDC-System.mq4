@@ -1,9 +1,9 @@
 //+------------------------------------------------------------------+
-//|                                              MA GC&DC System.mq4 |
-//|                                  Copyright 2019, Kohei Furukawa  |
+//|                                              two-MA.mq4 |
+//|                                Development By Nguyen Cong Son    |
 //|                                                                  |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2019, Kohei Furukawa for OneWorld"
+#property copyright "Development By Nguyen Cong Son"
 #property link      ""
 #property version   "1.00"
 #property strict
